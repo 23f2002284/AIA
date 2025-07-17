@@ -3,7 +3,7 @@
 
 A simple, offline-first browser extension to help you stay mindful and journal your thoughts directly to a Notion database. It provides context-aware reminders when you're on user-defined "shallow work" websites, prompting you for a quick reflection.
 
-![Screenshot of the extension popup](images/image.png)
+![Screenshot of the extension popup](../images/image.png)
 
 ## ✨ Features
 
